@@ -1,0 +1,22 @@
+
+# Font style metadata
+name = "my_font_set"
+
+# Optional Google font URL
+#google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+#google_fonts = "family=Cormorant+Garamond:wght@400"
+
+google_fonts = "family=Gentium+Basic&family=Lora"
+
+
+
+# Font families
+#heading_font = "Montserrat"
+#body_font = "Roboto"
+#nav_font = "Roboto"
+#mono_font = "Roboto Mono"
+
+heading_font = "Gentium Basic"
+nav_font = "Lora"
+mono_font = "Gentium Basic"
+body_font = "Gentium Basic"

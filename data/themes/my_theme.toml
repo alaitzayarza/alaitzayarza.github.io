@@ -1,0 +1,37 @@
+
+# Theme metadata
+name = "Minimal"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#000000" # this is the color that get the slides etc
+
+# Menu
+#menu_primary = "rgb(255, 255, 255)" # this is the header color. The band.
+#menu_primary = "#2C3E50"
+menu_primary = "#FFFFFF"
+menu_text = "#000000" # Project etc names color.
+menu_text_active = "#000000" # this is the color that changes when you click in the header options
+menu_title = "#000000" # tMy name's color
+
+#menu_text = "#FFFFFF" # Project etc names color.
+#menu_text_active = "#FFFFFF" # this is the color that changes when you click in the header options
+#menu_title = "#FFFFFF" # tMy name's color
+
+# Home sections
+background = "#FFFFFF" # This is the bar at the very bottom, where it says powered by Wowchemy
+home_section_odd = "rgb(255, 255, 255)" # this is the background color. even & odd
+home_section_even = "rgb(247, 247, 247)"
+
+#[dark]
+#link = "#0000FF" # color of links and icons"#454545"
+#link = "#454545" # color of links and icons
+link = "#0000FF"
+
+
+#link_hover = "#0000FF" #if you want to change color when you press over link and icon
+link_hover = "rgb(133, 146,158)" #if you want to change color when you press over link and icon
+
+#link_hover = "#DC7633" #if you want to change color when you press over link and icon
