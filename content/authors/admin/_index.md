@@ -79,10 +79,10 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 
 <p align="justify">I am broadly interested in <span style="text-decoration: underline">applied microeconomics</span>, with a particular focus on <span style="text-decoration: underline">labor</span>, <span style="text-decoration: underline">gender</span> and <span style="text-decoration: underline">migration economics</span>. My current research collects original survey data to understand migration decisions under uncertainty. 
 
-<!---In my [job-market paper]({{< relref "#jmp" >}}) I study the determinants of migration path choice.
+<!---In my [job-market paper]({{< relref "#jmp" >}}) I study the determinants of migration path choice.--->
 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/cv_alaitz_ayarza.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}.
 
 <!---References:
 - [Sule Alan](https://www.sulealan.com) (EUI)
