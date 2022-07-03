@@ -9,8 +9,8 @@ main:
     weight: 10
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- # - name: CV
-  #  url: 'https://www.casa.it'
+  - name: CV
+    url: 'static/uploads/CV_Alaitz_Ayarza.pdf'
    # weight: 15
   #- name: Job Market Paper
    # url: '#jmp'
