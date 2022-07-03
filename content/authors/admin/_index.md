@@ -87,8 +87,6 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 <!---References:
 - [Sule Alan](https://www.sulealan.com) (EUI)
 - [Michèle Belot](https://economics.cornell.edu/michèle-belot) (Cornell University)
-- [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home) (EUI)
-- [Alicia Adsera](https://scholar.princeton.edu/adsera) (Princeton School of Public and International Affairs)
 
 Placement Director, EUI:
 - [David K. Levine](http://www.dklevine.com)--->
