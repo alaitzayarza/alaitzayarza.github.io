@@ -15,9 +15,9 @@ main:
   #- name: Job Market Paper
    # url: '#jmp'
    # weight: 20
-  #- name: Other Research
-  #  url: '#workinprogress'
-  #  weight: 30
+  - name: Other Research
+    url: '#workinprogress'
+    weight: 30
   #- name: Teaching
   #  url: '#teaching'
   #  weight: 40
