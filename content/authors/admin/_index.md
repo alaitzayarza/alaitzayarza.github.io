@@ -83,7 +83,7 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 <!---In my [job-market paper]({{< relref "#jmp" >}}) I study the determinants of migration path choice.--->
 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: alaitz.ayarza@eui.eu
 
 References:
 - [Sule Alan](https://www.sulealan.com) (EUI)
@@ -92,4 +92,4 @@ References:
 <!---Placement Director, EUI:
 - [David K. Levine](http://www.dklevine.com)--->
 
-You can contact me at: alaitz.ayarza@eui.eu
+
