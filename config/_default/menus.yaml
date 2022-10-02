@@ -11,10 +11,10 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/CV_Alaitz_Ayarza.pdf
-   # weight: 15
-  #- name: Job Market Paper
-   # url: '#jmp'
-   # weight: 20
+    weight: 15
+  - name: Job Market Paper
+    url: '#jmp'
+    weight: 20
   - name: Other Research
     url: '#workinprogress'
     weight: 30
