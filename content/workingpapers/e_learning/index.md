@@ -25,7 +25,7 @@ summary: <span style="font-family:Lora">*joint with Josep Amer-Mestre and Marta 
 external_link: uploads/elearning.pdf
 # Custom links (uncomment lines below)
 links:
-- name: IZA DP No. 14904
+- name: Paper
   url: uploads/elearning.pdf
 
 ---
