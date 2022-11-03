@@ -1,5 +1,5 @@
 ---
-title:  'Selection into internal and international migration of young individuals: Evidence using Novel Survey Data' - Draft coming soon!
+title:  'Selection into internal and international migration of young individuals: Evidence using Novel Survey Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,4 +30,4 @@ summary: <p align="justify"><span style="font-family:Lora">This paper studies th
 #  url:
 
 ---
-<!---<span style="text-decoration: underline; color:brown; font-family:Lora; font-size:16px">Presented by co-authors or me at:</span>--->
+<span style="text-decoration: underline; color:brown; font-family:Lora; font-size:16px">Draft Coming Soon!</span>
