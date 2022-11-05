@@ -89,6 +89,7 @@ References:
 - [Sule Alan](https://www.sulealan.com) (EUI)
 - [Michèle Belot](https://economics.cornell.edu/michèle-belot) (Cornell University)
 - [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home) (EUI)
+
 Placement Director, EUI:
 - [David K. Levine](http://www.dklevine.com)
 
