@@ -77,7 +77,7 @@ Welcome!
 I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) (EUI) in Florence, Italy.\
 My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https://economics.cornell.edu/michèle-belot).
 
-<p align="justify">I am broadly interested in <span style="text-decoration: underline">applied microeconomics</span>, with a particular focus on <span style="text-decoration: underline">labor</span>, <span style="text-decoration: underline">gender</span> and <span style="text-decoration: underline">migration economics</span>. My current research collects original survey data to understand migration decisions under uncertainty. 
+<p align="justify">I am broadly interested in <span style="text-decoration: underline">applied microeconomics</span>, with a particular focus on <span style="text-decoration: underline">labor</span>, <span style="text-decoration: underline">gender</span> , <span style="text-decoration: underline">education</span> and <span style="text-decoration: underline">migration economics</span>. My current research collects original survey data to understand migration decisions under uncertainty. 
 
 <span style="color:black"> I am on the 2022/23 Academic Job Market</span>
 <!---In my [job-market paper]({{< relref "#jmp" >}}) I study the determinants of migration path choice.--->
@@ -89,7 +89,7 @@ References:
 - [Sule Alan](https://www.sulealan.com) (EUI)
 - [Michèle Belot](https://economics.cornell.edu/michèle-belot) (Cornell University)
 - [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home) (EUI)
-<!---Placement Director, EUI:
-- [David K. Levine](http://www.dklevine.com)--->
+Placement Director, EUI:
+- [David K. Levine](http://www.dklevine.com)
 
 
