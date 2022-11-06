@@ -15,7 +15,7 @@ title:  'Selection into Internal and International Migration of Young Individual
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-10-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 
 
 summary: <p align="justify"><span style="font-family:Lora">This paper studies the self-selection intentions into internal and international migration of young individuals in their school-to-work transition from the South of Spain -one of the areas with highest youth unemployment rates in the EU. I use a rich dataset that includes personal, academic and family background characteristics, as well as individuals’ beliefs about labor market outcomes in their home region and migration destination. Results indicate that having a higher GPA and being from a high socioeconomic status predict individuals’ intention to migrate internationally, but not internally. Despite being positively selected, students who plan to migrate internationally have the most pessimistic views about their career prospects in their home region. With their migration plans, they expect higher labor market returns to migration than internal migrants. International migrants are more likely than internal migrants to plan a long-term migration as opposed to a temporary migration. My results suggest a future brain drain from the region as well as from the country. </span>
