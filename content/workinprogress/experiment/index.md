@@ -15,7 +15,7 @@ title:  'Geographic Job Search differences by Socioeconomic Status'
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2022-10-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 
 
 summary: <p align="justify"><span style="font-family:Lora">High socioeconomic-status university graduates are more likely to migrate internationally than their lower socioeconomic-status counterparts. Low socioeconomic individuals could be left behind, despite being university graduates, in countries with high youth unemployment rates. This limits the university's role as a tool to foster social mobility. I study the mechanisms underlying university graduates' different geographic location choices by socioeconomic status. I use an information experiment to investigate the role of information frictions and study credit constraints and other costs (e.g., knowledge of the language) as alternative mechanisms.</span>
