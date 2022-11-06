@@ -1,5 +1,5 @@
 ---
-title:  'Selection into internal and international migration of young individuals: Evidence using Novel Survey Data'
+title:  'Selection into Internal and International Migration of Young Individuals: Evidence using Novel Survey Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
