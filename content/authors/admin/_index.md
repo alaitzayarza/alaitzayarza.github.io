@@ -88,6 +88,6 @@ In the coming months I will be presenting my work in the following places:
 - BSE Summer Forum, Barcelona
 - 7th Workshop on Subjective Expectations, Milan
 - 2nd International Workshop on Migration and Family Economics, Paris
-- EALE, Prague
+- EALE 2023, Prague
 
 
