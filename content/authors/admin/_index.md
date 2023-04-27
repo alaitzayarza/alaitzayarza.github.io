@@ -83,11 +83,6 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: alaitz.ayarza@eui.eu
 
-In the coming months I will be presenting my work in the following places:
-- SOLE 2023, Philadelphia
-- BSE Summer Forum, Barcelona
-- 7th Workshop on Subjective Expectations, Milan
-- 2nd International Workshop on Migration and Family Economics, Paris
-- EALE 2023, Prague
+
 
 
