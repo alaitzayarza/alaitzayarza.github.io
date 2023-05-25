@@ -81,7 +81,7 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 
 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: ayarza.alaitz@gmail.com.com
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: ayarza.alaitz@gmail.com
 
 
 
