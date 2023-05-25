@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alaitz Ayarza Astigarraga
+title: Alaitz Ayarza
 
 # Is this the primary user of the site?
 superuser: true
