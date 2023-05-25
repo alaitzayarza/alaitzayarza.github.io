@@ -42,7 +42,7 @@ role: PhD Candidate in Economics
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:aayarza.astigarraga@gmail.com
+  link: mailto:ayarza.alaitz@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alaitzayarza
@@ -81,7 +81,7 @@ My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https
 
 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: aayarza.astigarraga@gmail.com
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: ayarza.alaitz@gmail.com.com
 
 
 
