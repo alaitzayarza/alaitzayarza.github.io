@@ -12,10 +12,7 @@ main:
   - name: CV
     url: uploads/CV_Alaitz_Ayarza.pdf
     weight: 15
-  - name: Job Market Paper
-    url: '#jmp'
-    weight: 20
-  - name: Other Research
+  - name: Ongoing Research
     url: '#workinprogress'
     weight: 30
   - name: Publications
