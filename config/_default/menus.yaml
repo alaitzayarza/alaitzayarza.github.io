@@ -14,13 +14,13 @@ main:
     weight: 15
   - name: Ongoing Research
     url: '#workinprogress'
-    weight: 30
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 35
+    weight: 25
   - name: Teaching
     url: '#teaching'
-    weight: 40
+    weight: 30
   #- name: References
   #  url: '#references'
   #  weight: 50
