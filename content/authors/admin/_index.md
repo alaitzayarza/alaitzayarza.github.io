@@ -6,9 +6,7 @@ title: Alaitz Ayarza
 superuser: true
 
 # Role/position/tagline
-role: University of the Basque Country 
-
-(UPV/EHU)
+role: University of the Basque Country (UPV/EHU)
 
 # Organizations/Affiliations to show in About widget
 #organizations:
@@ -76,7 +74,10 @@ highlight_name: false
 
 Welcome!
 
-I am a postdoctoral researcher at the Department of Economic Analysis at the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/). I received my PhD in May 2023 from the European University Institute in Florence, Italy, under the supervision of Sule Alan and Michèle Belot. 
+I am a PhD student in Economics at the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) (EUI) in Florence, Italy.\
+My advisors are [Sule Alan](https://www.sulealan.com) and [Michèle Belot](https://economics.cornell.edu/michèle-belot).
+
+<p align="justify">I am broadly interested in <span style="text-decoration: underline">applied microeconomics</span>, with a particular focus on <span style="text-decoration: underline">labor</span>, <span style="text-decoration: underline">gender</span>, <span style="text-decoration: underline">education</span> and <span style="text-decoration: underline">migration economics</span>. My current research collects original survey data on subjective expectations to understand migration decision-making under uncertainty. 
 
 <p align="justify">I am an applied labor economist working on gender, education and migration economics. 
 
