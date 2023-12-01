@@ -25,8 +25,8 @@ summary: <p align="justify"><span style="font-family:Lora"> Why do young adults 
 
 external_link: uploads/jmp_ayarza.pdf
 # Custom links (uncomment lines below)
-#links:
-#- name: Paper
-#  url: uploads/jmp_ayarza.pdf
+links:
+- name: Paper
+  url: uploads/jmp_ayarza.pdf
 
 ---
