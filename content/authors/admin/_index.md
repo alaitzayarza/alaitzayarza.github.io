@@ -79,7 +79,7 @@ I am a postdoctoral researcher at the Department of Economic Analysis of the [Un
 <p align="justify">I am an applied labor economist working on gender, education and migration economics. 
 
 
-{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: ayarza.alaitz@gmail.com
+{{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: alaitz.ayarza@ehu.eus
 
 
 
