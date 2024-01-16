@@ -42,7 +42,7 @@ role: University of the Basque Country (UPV/EHU)
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:ayarza.alaitz@gmail.com
+  link: mailto:alaitz.ayarza@ehu.eus
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/alaitzayarza
