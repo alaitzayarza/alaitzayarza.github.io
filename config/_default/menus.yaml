@@ -12,7 +12,7 @@ main:
   - name: CV
     url: uploads/CV_Alaitz_Ayarza.pdf
     weight: 15
-  - name: Ongoing Research
+  - name: Research
     url: '#workinprogress'
     weight: 20
   #- name: Publications
