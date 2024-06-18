@@ -28,5 +28,7 @@ external_link: uploads/GenderGaps.pdf
 links:
 - name: Paper
   url: uploads/GenderGaps.pdf
+- name: VoxEU Column
+  url: https://cepr.org/voxeu/columns/gender-gaps-among-scholars-economics-analysis-across-cohorts
 ---
 
