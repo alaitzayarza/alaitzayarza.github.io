@@ -74,7 +74,7 @@ highlight_name: false
 
 Welcome!
 
-I am a postdoctoral researcher at the Department of Economic Analysis of the [University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/). I received my PhD in May 2023 from the European University Institute in Florence, Italy, under the supervision of Sule Alan and Michèle Belot. 
+I am an Assistant Professor of Economics at the [Department of Economic Analysis](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) of the University of the Basque Country (UPV/EHU) in Bilbao, Spain. I received my PhD in 2023 from the European University Institute in Florence, Italy, under the supervision of Sule Alan and Michèle Belot. 
 
 <p align="justify">I am an applied labor economist working on gender, education and migration economics. 
 
