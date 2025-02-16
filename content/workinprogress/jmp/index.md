@@ -23,10 +23,10 @@ date: "2022-10-01T00:00:00Z"
 summary: <p align="justify"><span style="font-family:Lora"> This paper studies how expected career and non-career returns shape migration decisions among highly educated young adults from lagging regions in advanced economies. I collect data on subjective expectations at the time of decision-making under three counterfactual migration scenarios: no migration, return migration, and long-term migration. First, I document strong anticipated trade-offs between career and personal life outcomes across alternatives. Second, to disentangle preferences from beliefs, I incorporate ex-ante returns into a life-cycle utility model. The results show that non-career factors overweigh career considerations in expected choices and welfare, explaining why short-term migration is preferred over long-term migration. Third, counterfactuals reveal that removing the expected benefits of short-term migration leads most short-term migrants to opt for no migration rather than long-term migration, with responses varying by ability. The relative role of each expected benefit on planning to return also depends on ability. For instance, anticipated career gains upon return matter only for the highest-ability individuals. Finally, I find that promoting short-term migration is about three times more cost-effective for high-ability individuals who initially plan to stay than for those planning long-term migration, underscoring the challenge of retaining talent in lagging regions. A follow-up survey confirms that initial expectations strongly predict realized migration choices and outcomes. These findings highlight the central role of non-career factors in migration decisions and provide new insights for designing cost-effective policies to retain talent.</br></br><ins>Presented at</ins>&colon; SAEe (Valencia, December 2022), SOLE (Philadelphia, May 2023), BSE Summer Forum (Barcelona, June 2023), Workshop on Subjective Expectations (Bocconi-Milan, June 2023), Workshop on Migration and Family Economics (IESEG-Paris, June 2023), EEA-ESEM (Barcelona, August 2023), EALE (Prague, September 2023), WB-IDB HUMANS Seminar (Washington, March 2024), CUNEF Universidad (Madrid, April 2024)</span>
 
 
-#external_link: uploads/jmp_ayarza.pdf
+external_link: uploads/ayarza_determinants_migration.pdf
 # Custom links (uncomment lines below)
-#links:
-#- name: Paper
-#  url: uploads/jmp_ayarza.pdf
+links:
+- name: Paper
+  url: uploads/ayarza_determinants_migration.pdf
 
 ---
