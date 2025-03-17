@@ -74,7 +74,7 @@ highlight_name: false
 
 Welcome!
 
-I am an Assistant Professor of Economics at the [Department of Economic Analysis](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) of the University of the Basque Country (UPV/EHU) in Bilbao, Spain. 
+I am an Assistant Professor of Economics at the [Department of Economic Analysis of the University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) in Bilbao, Spain. 
 
 <p align="justify">I received my PhD from the European University Institute (Florence, Italy) in 2023. 
 
