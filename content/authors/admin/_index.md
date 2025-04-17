@@ -79,7 +79,6 @@ I am an applied labor economist, Assistant Professor of Economics at the [Depart
 <p align="justify">I got my PhD in Economics at the European University Institute (Florence, Italy) in 2023. 
 
 
-
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: alaitz.ayarza@ehu.eus
 
 
