@@ -74,11 +74,10 @@ highlight_name: false
 
 Welcome!
 
-I am an Assistant Professor of Economics at the [Department of Economic Analysis of the University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) in Bilbao, Spain. 
+I am an applied labor economist, Assistant Professor of Economics at the [Department of Economic Analysis of the University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) in Bilbao, Spain. 
 
-<p align="justify">I received my PhD from the European University Institute (Florence, Italy) in 2023. 
+<p align="justify">I got my PhD in Economics at the European University Institute (Florence, Italy) in 2023. 
 
-<p align="justify">I am an applied labor economist working on gender, education and migration economics. 
 
 
 {{< icon name="download" pack="fas" >}} You can download my CV {{< staticref "uploads/CV_Alaitz_Ayarza.pdf" "newtab" >}}here{{< /staticref >}}. You can contact me at: alaitz.ayarza@ehu.eus
