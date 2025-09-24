@@ -34,6 +34,10 @@ design:
 
 **Labor Economics**
 <br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor MSc , 2024-25  
+<br> 
+**Dynamic Macroeconomicss**
+<br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor BSc , 2024-25  
+<br> 
  **Topics in Microeconometrics**
    <br> &nbsp;&nbsp;&nbsp;&nbsp; -  EUI PhD Advanced Course, TA to **_Thomas Crossley (EUI)_** , Spring 2021   
 <br> 
