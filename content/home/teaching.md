@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title:
+title: Teaching
 subtitle:
 
 design:
@@ -30,7 +30,7 @@ design:
 
 ---
 
-<span style="font-family:Lora; color:black; font-size:25px">**TEACHING EXPERIENCE**</span>
+
 
 **Labor Economics**
 <br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor MSc , 2024-25  
