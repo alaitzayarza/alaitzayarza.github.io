@@ -35,7 +35,10 @@ design:
 **Labor Economics**
 <br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor MSc , 2024-25  
 <br> 
-**Dynamic Macroeconomicss**
+**Dynamic Macroeconomics**
+<br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor BSc , 2024-25  
+<br> 
+**Intermediate Macroeconomics**
 <br> &nbsp;&nbsp;&nbsp;&nbsp; -  UPV/EHU, Main Instructor BSc , 2024-25  
 <br> 
  **Topics in Microeconometrics**
