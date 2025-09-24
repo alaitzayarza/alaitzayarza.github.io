@@ -18,7 +18,7 @@ title:  'Gender Quotas in the Cinema Industry'
 date: "2020-10-01T00:00:00Z"
 
 
-summary: <span style="font-family:Lora">*with Nagore Iriberri and Odra Quesda*.   </span>
+summary: <span style="font-family:Lora">*with Nagore Iriberri and Odra Quesada*.   </span>
 
 #summary: <p align="justify"><span style="font-family:Lora">blablablabla </br></br><ins>Presented at</ins>&colon; </span>
 
