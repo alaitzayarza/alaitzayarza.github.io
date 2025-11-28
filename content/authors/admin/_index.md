@@ -74,7 +74,7 @@ highlight_name: false
 
 Welcome!
 
-I am an applied labor economist, Assistant Professor of Economics at the [Department of Economic Analysis of the University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) in Bilbao, Spain. 
+I am an applied microeconomist, Assistant Professor of Economics at the [Department of Economic Analysis of the University of the Basque Country (UPV/EHU)](https://www.ehu.eus/en/web/analisi-ekonomikoa-saila/) in Bilbao, Spain. 
 
 <p align="justify">I got my PhD in Economics at the European University Institute (Florence, Italy) in 2023 under the supervision of Sule Alan and Michèle Belot. 
 
